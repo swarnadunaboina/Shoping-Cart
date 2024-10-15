@@ -1,0 +1,905 @@
+
+    [{
+           
+            "id": 1,
+            "name": "realme P1 5G (Peacock Green 128 GB ",
+            "price": "15,999",
+            "option": "6 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/j/b/noriginal-imahyuhfzvybhaat.jpeg",
+            "category":"Mobiles",
+            "company":"Realme"
+        },
+        {
+            "id": 2,
+            "name": "realme C51 (Carbon Black 64 GB) ",
+            "price": "8,999",
+            "option": "4 GB RAM | 64 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/t/5/5original-imagt4qzhsrnpyhb.jpeg",
+            "category":"Mobiles",
+            "company":"Realme"
+        },
+        {
+            "id": 3,
+            "name": "realme C51 (Carbon Black 128 GB) ",
+            "price": "8,999",
+            "option": "4 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/t/5/5original-imagt4qzhsrnpyhb.jpeg",
+            "category":"Mobiles",
+            "company":"Realme"
+        },
+        {
+            "id": 4,
+            "name": "realme C51 (Mint Green 128 GB)",
+            "price": "8,999",
+            "option": "4 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/b/i/xoriginal-imagt4qptrkzwmxa.jpeg",
+            "category":"Mobiles",
+            "company":"Realme"
+        },
+        {
+            "id": 5,
+            "name": "realme C51 (Carbon Black 64 GB) ",
+            "price": "8,999",
+            "option": "4 GB RAM | 64 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/t/5/5original-imagt4qzhsrnpyhb.jpeg",
+            "category":"Mobiles",
+            "company":"Realme"
+        },
+        {
+            "id": 6,
+            "name": "realme C51 (Carbon Black 128 GB) ",
+            "price": "8,999",
+            "option": "4 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/t/5/5original-imagt4qzhsrnpyhb.jpeg",
+            "category":"Mobiles",
+            "company":"Realme"
+        },
+        {
+            "id": 7,
+            "name": "realme C51 (Mint Green 128 GB)",
+            "price": "8,999",
+            "option": "4 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/b/i/xoriginal-imagt4qptrkzwmxa.jpeg",
+            "category":"Mobiles",
+            "company":"Realme"
+        },
+        {
+            "id": 8,
+            "name": "realme C51 (Carbon Black 64 GB) ",
+            "price": "8,999",
+            "option": "4 GB RAM | 64 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/t/5/5original-imagt4qzhsrnpyhb.jpeg",
+            "category":"Mobiles",
+            "company":"Realme"
+        },
+        {
+            "id": 9,
+            "name": "realme C51 (Carbon Black 128 GB) ",
+            "price": "8,999",
+            "option": "4 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/t/5/5original-imagt4qzhsrnpyhb.jpeg",
+             "category":"Mobiles",
+            "company":"Realme"
+        },
+        {
+            "id": 10,
+            "name": "realme C51 (Mint Green 128 GB)",
+            "price": "8,999",
+            "option": "4 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/b/i/xoriginal-imagt4qptrkzwmxa.jpeg",
+             "category":"Mobiles",
+            "company":"Realme"
+        },
+        {
+            "id": 11,
+            "name": "OPPO K12x 5G with 45W SUPERVOOC Charger In-The-Box(Breeze Blue, 128 GB) ",
+            "price": "12,999",
+            "option": "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/m/e/3original-imah37gwn2xbvzhy.jpeg",
+            "category":"Mobiles",
+            "company":"OPPO"
+        },
+        {
+            "id": 12,
+            "name": "OPPO K12x 5G with 45W SUPERVOOC Charger In-The-Box(Midnight Voilet, 128 GB) ",
+            "price": "12,999",
+            "option": "6 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/s/m/0original-imah37gw2wv2ayrf.jpeg",
+            "category":"Mobiles",
+            "company":"OPPO"
+        },
+        {
+            "id": 13,
+            "name": "OPPO Reno11 Pro 5G (Pearl White, 256 GB) ",
+            "price": "37,999",
+            "option": "12 GB RAM | 256 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/t/v/2original-imagwxvryg2hzd9n.jpeg",
+            "category":"Mobiles",
+            "company":"OPPO"
+        },
+        {
+            "id": 14,
+            "name": "OPPO F27 Pro+ (Midnight Navy, 256 GB)",
+            "price": "29,999",
+            "option": "8 GB RAM | 256 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/g/0/horiginal-imahfqws9yjuv4vv.jpeg",
+            "category":"Mobiles",
+            "company":"OPPO"
+        },
+        {
+            "id": 15,
+            "name": "OPPO K12x 5G with 45W SUPERVOOC Charger In-The-Box(Breeze Blue, 128 GB)",
+            "price": "15,999",
+            "option": "8 GB RAM | 256 GB ROM | Expandable Upto 1 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/m/e/3original-imah37gwn2xbvzhy.jpeg",
+            "category":"Mobiles",
+            "company":"OPPO"
+        },
+        {
+            "id": 16,
+            "name": "OPPO Reno 12 Pro 5G (Space Brown, 256 GB) ",
+            "price": "36,999",
+            "option": "12 GB RAM | 256 GB ROM | Expandable Upto 1 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/r/n/5original-imah3cmcs6gzqn78.jpeg",
+            "category":"Mobiles",
+            "company":"OPPO"
+        },
+        {
+            "id": 17,
+            "name": "OPPO A3 pro 5G (Moonlight Purple,256 GB)",
+            "price": "19,999",
+            "option": "8 GB RAM | 256 GB ROM | Expandable Upto 1 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/y/m/ioriginal-imah24x4zhzszgtc.jpeg",
+            "category":"Mobiles",
+            "company":"OPPO"
+        },
+        {
+            "id": 18,
+            "name": "OPPO K12x 5G with 45W SUPERVOOC Charger In-The-Box(Midnight Voilet, 256 GB)",
+            "price": "8,999",
+            "option": "8 GB RAM | 256 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/s/m/0original-imah37gw2wv2ayrf.jpeg",
+            "category":"Mobiles",
+            "company":"OPPO"
+        },
+        {
+            "id": 19,
+            "name": "OPPO F21 Pro (Sunset orange, 128 GB) ",
+            "price": "14,999",
+            "option": "8 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/l1zc6fk0/mobile/u/7/w/f21-pro-cph2363-oppo-original-imagdf4jphscz9jz.jpeg",
+            "category":"Mobiles",
+            "company":"OPPO"
+        },
+        {
+            "id": 20,
+            "name": "OPPO Reno 10 Pro+ 5G (Silvery Grey, 256 GB)",
+            "price": "8,999",
+            "option": "12 GB RAM | 256 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/7/h/soriginal-imagtcrvzwjay4zd.jpeg",
+            "category":"Mobiles",
+            "company":"OPPO"
+        },
+        {
+            "id": 21,
+            "name": "REDMI 12 (Jade Black, 128 GB )",
+            "price": "9,299",
+            "option": "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/h/f/woriginal-imags37hy7uz2usv.jpeg",
+            "category":"Mobiles",
+            "company":"Redmi"
+        },
+        {
+            "id": 22,
+            "name": "REDMI 12 5G (Jade Black, 128 GB )",
+            "price": "12,499",
+            "option": "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/b/m/goriginal-imagxaqtqng2hpxn.jpeg",
+            "category":"Mobiles",
+            "company":"Redmi"
+        },
+        {
+            "id": 23,
+            "name": "REDMI 12 5G (Pastel Blue, 256 GB ) ",
+            "price": "13,999",
+            "option": "8 GB RAM | 256 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/x/0/4original-imagxaqu3samghjd.jpeg",
+            "category":"Mobiles",
+            "company":"Redmi"
+        },
+        {
+            "id": 24,
+            "name": "REDMI 12 5G (Jade Black, 256 GB )",
+            "price": "13,999",
+            "option": "8 GB RAM | 256 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/b/m/goriginal-imagxaqtqng2hpxn.jpeg",
+            "category":"Mobiles",
+            "company":"Redmi"
+        },
+        {
+            "id": 25,
+            "name": "REDMI 12 5G (Moonstone Silver, 128 GB ) ",
+            "price": "12,499",
+            "option": "6 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/u/v/horiginal-imagxaqtzmqgtfen.jpeg",
+            "category":"Mobiles",
+            "company":"Redmi"
+        },
+        {
+            "id": 26,
+            "name": "REDMI 12 (Moonstone Silver, 128 GB ) ",
+            "price": "7,871",
+            "option": "6 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/k/j/noriginal-imags37gyajqxkgp.jpeg",
+            "category":"Mobiles",
+            "company":"Redmi"
+        },
+        {
+            "id": 27,
+            "name": "REDMI 12 (Jade Black, 128 GB )",
+            "price": "9,499",
+            "option": "4 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/h/f/woriginal-imags37hy7uz2usv.jpeg",
+            "category":"Mobiles",
+            "company":"Redmi"
+        },
+        {
+            "id": 28,
+            "name": "REDMI 12 5G (Pastel Blue, 128 GB ) ",
+            "price": "12,499",
+            "option": "6 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/x/0/4original-imagxaqu3samghjd.jpeg",
+            "category":"Mobiles",
+            "company":"Redmi"
+        },
+        {
+            "id": 29,
+            "name": "REDMI 12(Moonstone Silver, 128 GB ) ",
+            "price": "9,499",
+            "option": "4 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/k/j/noriginal-imags37gyajqxkgp.jpeg",
+             "category":"Mobiles",
+            "company":"Redmi"
+        },
+        {
+            "id": 30,
+            "name": "REDMI 12 5G (Pastel Blue, 128 GB ) ",
+            "price": "9,499",
+            "option": "4 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/e/a/goriginal-imags37h4prxjazz.jpeg",
+             "category":"Mobiles",
+            "company":"Redmi"
+        },
+        {
+            "id": 31,
+            "name": "SAMSUNG Galaxy S23 5G (Cream, 128 GB)",
+            "price": "44,999",
+            "option": "8 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/x/7/noriginal-imagzm8qzhpuwrak.jpeg",
+            "category":"Mobiles",
+            "company":"Samsung"
+        },
+        {
+            "id": 32,
+            "name": "SAMSUNG Galaxy S23 5G (Green, 256 GB) ",
+            "price": "49,999",
+            "option": "8 GB RAM | 256 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/h/q/9original-imagzm8r8jzcumfa.jpeg",
+            "category":"Mobiles",
+            "company":"Samsung"
+        },
+        {
+            "id": 33,
+            "name": "SAMSUNG Galaxy S23 FE (Mint, 128 GB) ",
+            "price": "33,999",
+            "option": "8 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/m/c/soriginal-imagztn7sycc4h84.jpeg",
+            "category":"Mobiles",
+            "company":"Samsung"
+        },
+        {
+            "id": 34,
+            "name": "SAMSUNG Galaxy F34 5G (Electric Black, 128 GB)",
+            "price": "14,999",
+            "option": "8 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/v/r/8original-imagtywatxffk3yh.jpeg",
+            "category":"Mobiles",
+            "company":"Samsung"
+        },
+        {
+            "id": 35,
+            "name": "SAMSUNG Galaxy S23 5G (Phantom, 128 GB)",
+            "price": "44,999",
+            "option": "8 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/u/i/doriginal-imagzm8qbwwyyvhf.jpeg",
+            "category":"Mobiles",
+            "company":"Samsung"
+        },
+        {
+            "id": 36,
+            "name": "SAMSUNG Galaxy S23 5G (Green, 128 GB)",
+            "price": "44,999",
+            "option": "8 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/h/q/9original-imagzm8r8jzcumfa.jpeg",
+            "category":"Mobiles",
+            "company":"Samsung"
+        },
+        {
+            "id": 37,
+            "name": "SAMSUNG Galaxy F34 5G (Mystic Green, 128 GB)",
+            "price": "14,999",
+            "option": "8 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/n/w/eoriginal-imagtyw9fdfnsune.jpeg",
+            "category":"Mobiles",
+            "company":"Samsung"
+        },
+        {
+            "id": 38,
+            "name": "SAMSUNG Galaxy S23 5G (Lavender, 128 GB) ",
+            "price": "44,999",
+            "option": "8 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/g/r/boriginal-imagzm8q5gtgycxu.jpeg",
+            "category":"Mobiles",
+            "company":"Samsung"
+        },
+        {
+            "id": 39,
+            "name": "SAMSUNG Galaxy S23 FE (Purple, 128 GB)",
+            "price": "33,999",
+            "option": "8 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/r/c/8original-imagztn77hdgmeka.jpeg",
+             "category":"Mobiles",
+            "company":"Samsung"
+        },
+        {
+            "id": 40,
+            "name": "SAMSUNG Galaxy S23 FE (Graphite, 128 GB)",
+            "price": "33,999",
+            "option": "8 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/b/o/joriginal-imagztn8vv8htmyx.jpeg",
+             "category":"Mobiles",
+            "company":"Samsung"
+        },
+        {
+            "id": 41,
+            "name": "realme P1 5G (Peacock Green 128 GB ",
+            "price": "15,999",
+            "option": "6 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/j/b/noriginal-imahyuhfzvybhaat.jpeg",
+            "category":"Mobiles",
+            "company":"Vivo"
+        },
+        {
+            "id": 42,
+            "name": "realme C51 (Carbon Black 64 GB) ",
+            "price": "8,999",
+            "option": "4 GB RAM | 64 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/t/5/5original-imagt4qzhsrnpyhb.jpeg",
+            "category":"Mobiles",
+            "company":"Vivo"
+        },
+        {
+            "id": 43,
+            "name": "realme C51 (Carbon Black 128 GB) ",
+            "price": "8,999",
+            "option": "4 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/t/5/5original-imagt4qzhsrnpyhb.jpeg",
+            "category":"Mobiles",
+            "company":"Vivo"
+        },
+        {
+            "id": 44,
+            "name": "realme C51 (Mint Green 128 GB)",
+            "price": "8,999",
+            "option": "4 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/b/i/xoriginal-imagt4qptrkzwmxa.jpeg",
+            "category":"Mobiles",
+            "company":"Vivo"
+        },
+        {
+            "id": 45,
+            "name": "realme C51 (Carbon Black 64 GB) ",
+            "price": "8,999",
+            "option": "4 GB RAM | 64 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/t/5/5original-imagt4qzhsrnpyhb.jpeg",
+            "category":"Mobiles",
+            "company":"Vivo"
+        },
+        {
+            "id": 46,
+            "name": "realme C51 (Carbon Black 128 GB) ",
+            "price": "8,999",
+            "option": "4 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/t/5/5original-imagt4qzhsrnpyhb.jpeg",
+            "category":"Mobiles",
+            "company":"Vivo"
+        },
+        {
+            "id": 47,
+            "name": "realme C51 (Mint Green 128 GB)",
+            "price": "8,999",
+            "option": "4 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/b/i/xoriginal-imagt4qptrkzwmxa.jpeg",
+            "category":"Mobiles",
+            "company":"Vivo"
+        },
+        {
+            "id": 48,
+            "name": "realme C51 (Carbon Black 64 GB) ",
+            "price": "8,999",
+            "option": "4 GB RAM | 64 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/t/5/5original-imagt4qzhsrnpyhb.jpeg",
+            "category":"Mobiles",
+            "company":"Vivo"
+        },
+        {
+            "id": 49,
+            "name": "realme C51 (Carbon Black 128 GB) ",
+            "price": "8,999",
+            "option": "4 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/t/5/5original-imagt4qzhsrnpyhb.jpeg",
+             "category":"Mobiles",
+            "company":"Vivo"
+        },
+        {
+            "id": 50,
+            "name": "realme C51 (Mint Green 128 GB)",
+            "price": "8,999",
+            "option": "4 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/b/i/xoriginal-imagt4qptrkzwmxa.jpeg",
+             "category":"Mobiles",
+            "company":"Vivo"
+        },
+        {
+            "id": 51,
+            "name": "POCO X2 (Phoenix Red, 64 GB)  (6 GB RAM)",
+            "price": "17,999",
+            "option": "6 GB RAM | 64 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/k65d18w0/mobile/g/7/3/poco-x2-na-original-imafzz2hjssyrsha.jpeg",
+            "category":"Mobiles",
+            "company":"Poco"
+        },
+        {
+            "id": 52,
+            "name": "POCO X2 (Atlantis Blue, 256 GB)  (8 GB RAM)",
+            "price": "16,999",
+            "option": "8 GB RAM | 256 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/k65d18w0/mobile/4/k/4/poco-x2-mzb9011in-original-imafzz2hbfkvftm5.jpeg",
+            "category":"Mobiles",
+            "company":"Poco"
+        },
+        {
+            "id": 53,
+            "name": "POCO X2 (Matrix Purple, 64 GB)  (6 GB RAM)",
+            "price": "16,999",
+            "option": "4 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/k65d18w0/mobile/w/u/h/poco-x2-mzb9013in-original-imafzz2hdysz9njg.jpeg",
+            "category":"Mobiles",
+            "company":"Poco"
+        },
+        {
+            "id": 54,
+            "name": "POCO X2 (Matrix Purple, 256 GB)  (8 GB RAM)",
+            "price": "20,999",
+            "option": "8 GB RAM | 256 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/k65d18w0/mobile/w/u/h/poco-x2-mzb9013in-original-imafzz2hdysz9njg.jpeg",
+            "category":"Mobiles",
+            "company":"Poco"
+        },
+        {
+            "id": 55,
+            "name": "POCO C65 (Pastel Blue, 128 GB)  (4 GB RAM) ",
+            "price": "6,999",
+            "option": "4 GB RAM | 64 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/b/u/8/c65-mzb0g8nin-poco-original-imagw6j2kp5t5jek.jpeg",
+            "category":"Mobiles",
+            "company":"Poco"
+        },
+        {
+            "id": 56,
+            "name": "POCO C65 (Pastel Green, 128 GB)  (4 GB RAM)",
+            "price": "6,999",
+            "option": "4 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/g/1/poriginal-imagy2v5kfnq97xn.jpeg",
+            "category":"Mobiles",
+            "company":"Poco"
+        },
+        {
+            "id": 57,
+            "name": "POCO C61 (Ethereal Blue, 64 GB)  (4 GB RAM)",
+            "price": "6,499",
+            "option": "4 GB RAM | 64 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/v/f/loriginal-imagzcfj9vhf5dyq.jpeg",
+            "category":"Mobiles",
+            "company":"Poco"
+        },
+        {
+            "id": 58,
+            "name": "POCO M6 5G (Galactic Black, 128 GB)  (6 GB RAM) ",
+            "price": "8,999",
+            "option": "4 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/h/b/roriginal-imagytcpcnjbduwh.jpeg",
+            "category":"Mobiles",
+            "company":"Poco"
+        },
+        {
+            "id": 59,
+            "name": "POCO X6 Neo 5G (Martian Orange, 256 GB)  (12 GB RAM)",
+            "price": "14,999",
+            "option": "12 GB RAM | 256 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/n/z/4original-imagz5g9gyhmgusp.jpeg",
+             "category":"Mobiles",
+            "company":"Poco"
+        },
+        {
+            "id": 60,
+            "name": "POCO M6 5G (Polaris Green, 128 GB)  (6 GB RAM)",
+            "price": "9,999",
+            "option": "6 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/d/3/goriginal-imagy2v5ggthbvfe.jpeg",
+             "category":"Mobiles",
+            "company":"Poco"
+        },
+        {
+            "id": 61,
+            "name": "Women Design Pure Cotton A-line Kurta  (Pink)",
+            "price": "299",
+            "option": "",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/kurta/q/0/w/l-jne4402-janasya-original-imah2yyz4gyhzpzd.jpeg",
+            "category":"Fashion",
+            "company":"Women's Kurtas"
+        },
+        {
+            "id": 62,
+            "name": "Women Printed Cotton Blend Straight Kurta  (Multicolor)",
+            "price": "299",
+            "option": "",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/kurta/u/2/f/l-010-gajri-lace-kurta-physil-original-imah2d8ytmpanhrk.jpeg",
+            "category":"Fashion",
+            "company":"Women's Kurtas"
+        },
+        {
+            "id": 63,
+            "name": "Women Printed Pure Cotton Anarkali Kurta  (Maroon, Grey, Beige)",
+            "price": "399",
+            "option": "",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/kurta/w/8/4/s-gul263krtkashish-sa-rasa-original-imahfg27xteajawh.jpeg",
+            "category":"Fashion",
+            "company":"Women's Kurtas"
+        },
+        {
+            "id": 64,
+            "name": "Women Chikan Embroidery Viscose Rayon Flared Kurta  (Pink)",
+            "price": "599",
+            "option": "",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/kurta/z/i/t/xl-longdyekurti-anushansa-original-imahfua3gs67uspd.jpeg",
+            "category":"Fashion",
+            "company":"Women's Kurtas"
+        },
+        {
+            "id": 65,
+            "name": "Women Design Pure Cotton A-line Kurta ",
+            "price": "499",
+            "option": "",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/kurta/u/v/b/m-fashor-peech-flower-stright-kurta-kjfab-original-imah3gfaza8abgkt.jpeg",
+            "category":"Fashion",
+            "company":"Women's Kurtas"
+        },
+        {
+            "id": 66,
+            "name": "Women Solid Pure Cotton A-line Kurta  (Red) ",
+            "price": "599",
+            "option": "",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/kurta/i/j/c/xl-vm-1528924-675-unlimited-original-imah2x6ftsrcdw5r.jpeg",
+            "category":"Fashion",
+            "company":"Women's Kurtas"
+        },
+        {
+            "id": 67,
+            "name": "Women Floral Print Viscose Rayon Straight Kurta  (Blue)",
+            "price": "359",
+            "option": "",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/kurta/u/j/r/s-sk-2-blue-big-lehariya-prisca-original-imahyn2afb27rckz.jpeg",
+            "category":"Fashion",
+            "company":"Women's Kurtas"
+        },
+        {
+            "id": 68,
+            "name": "Women Embroidered Cotton Blend Straight Kurta  (Purple)",
+            "price": "579",
+            "option": "",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/kurta/1/s/h/xl-ckis31102lavender-max-original-imagnpd4y75rhgvf.jpeg",
+            "category":"Fashion",
+            "company":"Women's Kurtas"
+        },
+        {
+            "id": 69,
+            "name": "Women Embroidered, Printed Viscose Rayon Straight Kurta  (Purple)",
+            "price": "399",
+            "option": "",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/kurta/x/n/3/xl-008-barfi-mauve-kurta-physil-original-imah2ga2eh7pwqgr.jpeg",
+            "category":"Fashion",
+            "company":"Women's Kurtas"
+        },
+        {
+            "id": 70,
+            "name": "Women Embroidered Cotton Blend Anarkali Kurta  (Multicolor)",
+            "price": "8,999",
+            "option": "",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/kurta/o/q/u/xl-kurti-komal-fashion-original-imahygj6kgt8fgkq.jpeg",
+            "category":"Fashion",
+            "company":"Women's Kurtas"
+        },
+        {
+            "id": 11,
+            "name": "Boys Graphic Print Cotton Blend Regular T Shirt  (Multicolor, Pack of 3)",
+            "price": "699",
+            "option": "",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/kids-t-shirt/e/l/5/10-11-years-tbl-bg-sburnosboy-bd133-tripr-original-imahy9mxmhsdeggz.jpeg",
+            "category":"Fashion",
+            "company":"Kid's Wear"
+        },
+        {
+            "id": 12,
+            "name": "Boys Printed Cotton Blend Regular T Shirt  (Blue, Pack of 3)",
+            "price": "199",
+            "option": "",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/kids-t-shirt/k/w/u/5-6-years-hft-23hr3-on-pe-ics-hellcat-original-imagn9wcf7tzzx8p.jpeg",
+            "category":"Fashion",
+            "company":"Kid's Wear"
+        },
+        {
+            "id": 13,
+            "name": "Baby Boys & Baby Girls Printed Pure Cotton Regular T Shirt  (Multicolor, Pack of 3) ",
+            "price": "399",
+            "option": "",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/kids-t-shirt/k/f/p/0-3-months-489-babygo-original-imahfk3ncpdjjjmx.jpeg",
+            "category":"Fashion",
+            "company":"Kid's Wear"
+        },
+        {
+            "id": 14,
+            "name": "Girls Below Knee Festive/Wedding Dress  (Pink, Fashion Sleeve)",
+            "price": "399",
+            "option": "",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/kids-dress/b/k/n/1-2-years-rff-n-pk-pn-fashion-original-imah4ee52fg2cswp.jpeg",
+            "category":"Fashion",
+            "company":"Kid's Wear"
+        },
+        {
+            "id": 15,
+            "name": "realme C51 (Carbon Black 64 GB) ",
+            "price": "299",
+            "option": "",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/kids-dress/l/1/c/6-7-years-frk-02-blue-2-3-y-betibest-original-imah3nhtcf3pgrep.jpeg",
+            "category":"Fashion",
+            "company":"Kid's Wear"
+        },
+        {
+            "id": 16,
+            "name": "Girls Maxi/Full Length Festive/Wedding Dress  (Maroon, 3/4 Sleeve)",
+            "price": "8,999",
+            "option": "",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/kids-dress/y/2/9/9-10-years-fdgdrs00132-mrn-fashion-dream-original-imah2kpsshzeua3z.jpeg",
+            "category":"Fashion",
+            "company":"Kid's Wear"
+        },
+        {
+            "id": 17,
+            "name": "Girls Below Knee Casual Dress",
+            "price": "8,999",
+            "option": "",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/kids-dress/d/r/t/4-5-years-dezine-light-blue-front-button-dress-billion-original-imahyhhxsekadymy.jpeg",
+            "category":"Fashion",
+            "company":"Kid's Wear"
+        },
+        {
+            "id": 18,
+            "name": "Girls Midi/Knee Length Casual Dress  (Black, 3/4 Sleeve) ",
+            "price": "8,999",
+            "option": "",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/kids-dress/n/z/y/13-14-years-d430-kids-deklook-original-imagzkdtzzmkssq8.jpeg",
+            "category":"Fashion",
+            "company":"Kid's Wear"
+        },
+        {
+            "id": 19,
+            "name": "Girls Midi/Knee Length Casual Dress  (Black, Sleeveless)",
+            "price": "8,999",
+            "option": "",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/kids-dress/n/b/h/3-4-years-sparkle-2021-daddyz-original-imag8gwteajgdehb-bb.jpeg",
+            "category":"Fashion",
+            "company":"Kid's Wear"
+        },
+        {
+            "id": 20,
+            "name": "Girls Midi/Knee Length Party Dress  (Pink, Sleeveless)",
+            "price": "8,999",
+            "option": "",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/kids-dress/4/s/k/4-5-years-kids-pink-frock-vol-01-netra-creation-original-imah33nbptvs228r.jpeg",
+            "category":"Fashion",
+            "company":"Kid's Wear"
+        },
+        {
+            "id": 21,
+            "name": "realme P1 5G (Peacock Green 128 GB ",
+            "price": "15,999",
+            "option": "",
+            "image": "https://rukminim2.flixcart.com/image/312/312/kd4uj680/pulses/t/y/u/1000-chana-dal-chana-dal-my-kitchen-original-imafu3p63zw89ra8.jpeg",
+            "category":"Grocery",
+            "company":"Dhal"
+        },
+        {
+            "id": 22,
+            "name": "realme C51 (Carbon Black 64 GB) ",
+            "price": "8,999",
+            "option": "",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/t/5/5original-imagt4qzhsrnpyhb.jpeg",
+            "category":"Grocery",
+            "company":"Dhal"
+        },
+        {
+            "id": 23,
+            "name": "realme C51 (Carbon Black 128 GB) ",
+            "price": "8,999",
+            "option": "4 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/t/5/5original-imagt4qzhsrnpyhb.jpeg",
+            "category":"Grocery",
+            "company":"Dhal"
+        },
+        {
+            "id": 24,
+            "name": "realme C51 (Mint Green 128 GB)",
+            "price": "8,999",
+            "option": "4 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/b/i/xoriginal-imagt4qptrkzwmxa.jpeg",
+            "category":"Grocery",
+            "company":"Dhal"
+        },
+        {
+            "id": 25,
+            "name": "realme C51 (Carbon Black 64 GB) ",
+            "price": "8,999",
+            "option": "4 GB RAM | 64 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/t/5/5original-imagt4qzhsrnpyhb.jpeg",
+            "category":"Grocery",
+            "company":"Dhal"
+        },
+        {
+            "id": 26,
+            "name": "realme C51 (Carbon Black 128 GB) ",
+            "price": "8,999",
+            "option": "4 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/t/5/5original-imagt4qzhsrnpyhb.jpeg",
+            "category":"Grocery",
+            "company":"Dhal"
+        },
+        {
+            "id": 27,
+            "name": "realme C51 (Mint Green 128 GB)",
+            "price": "8,999",
+            "option": "4 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/b/i/xoriginal-imagt4qptrkzwmxa.jpeg",
+            "category":"Grocery",
+            "company":"Dhal"
+        },
+        {
+            "id": 28,
+            "name": "realme C51 (Carbon Black 64 GB) ",
+            "price": "8,999",
+            "option": "4 GB RAM | 64 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/t/5/5original-imagt4qzhsrnpyhb.jpeg",
+            "category":"Grocery",
+            "company":"Dhal"
+        },
+        {
+            "id": 29,
+            "name": "realme C51 (Carbon Black 128 GB) ",
+            "price": "8,999",
+            "option": "4 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/t/5/5original-imagt4qzhsrnpyhb.jpeg",
+            "category":"Grocery",
+            "company":"Dhal"
+        },
+        {
+            "id": 30,
+            "name": "realme C51 (Mint Green 128 GB)",
+            "price": "8,999",
+            "option": "",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/b/i/xoriginal-imagt4qptrkzwmxa.jpeg",
+            "category":"Grocery",
+            "company":"Dhal"
+        },
+       
+        {
+            "id": 31,
+            "name": "Women Woven Design Pure Cotton A-line Kurta  (Pink)",
+            "price": "299",
+            "option": "",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/kurta/q/0/w/l-jne4402-janasya-original-imah2yyz4gyhzpzd.jpeg",
+            "category":"Electronics",
+            "company":"Smart Watch"
+        },
+        {
+            "id": 32,
+            "name": "realme C51 (Carbon Black 64 GB) ",
+            "price": "8,999",
+            "option": "4 GB RAM | 64 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/t/5/5original-imagt4qzhsrnpyhb.jpeg",
+            "category":"Electronics",
+            "company":"Smart Watch"
+        },
+        {
+            "id": 33,
+            "name": "realme C51 (Carbon Black 128 GB) ",
+            "price": "8,999",
+            "option": "4 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/t/5/5original-imagt4qzhsrnpyhb.jpeg",
+            "category":"Electronics",
+            "company":"Smart Watch"
+        },
+        {
+            "id": 34,
+            "name": "realme C51 (Mint Green 128 GB)",
+            "price": "8,999",
+            "option": "4 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/b/i/xoriginal-imagt4qptrkzwmxa.jpeg",
+            "category":"Electronics",
+            "company":"Smart Watch"
+        },
+        {
+            "id": 35,
+            "name": "realme C51 (Carbon Black 64 GB) ",
+            "price": "8,999",
+            "option": "4 GB RAM | 64 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/t/5/5original-imagt4qzhsrnpyhb.jpeg",
+            "category":"Electronics",
+            "company":"Smart Watch"
+        },
+        {
+            "id": 36,
+            "name": "realme C51 (Carbon Black 128 GB) ",
+            "price": "8,999",
+            "option": "4 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/t/5/5original-imagt4qzhsrnpyhb.jpeg",
+            "category":"Electronics",
+            "company":"Smart Watch"
+        },
+        {
+            "id": 37,
+            "name": "realme C51 (Mint Green 128 GB)",
+            "price": "8,999",
+            "option": "4 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/b/i/xoriginal-imagt4qptrkzwmxa.jpeg",
+            "category":"Electronics",
+            "company":"Smart Watch"
+        },
+        {
+            "id": 38,
+            "name": "realme C51 (Carbon Black 64 GB) ",
+            "price": "8,999",
+            "option": "4 GB RAM | 64 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/t/5/5original-imagt4qzhsrnpyhb.jpeg",
+            "category":"Electronics",
+            "company":"Smart Watch"
+        },
+        {
+            "id": 39,
+            "name": "realme C51 (Carbon Black 128 GB) ",
+            "price": "8,999",
+            "option": "4 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/t/5/5original-imagt4qzhsrnpyhb.jpeg",
+            "category":"Electronics",
+            "company":"Smart Watch"
+        },
+        {
+            "id": 40,
+            "name": "realme C51 (Mint Green 128 GB)",
+            "price": "8,999",
+            "option": "4 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+            "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/b/i/xoriginal-imagt4qptrkzwmxa.jpeg",
+            "category":"Electronics",
+            "company":"Smart Watch"
+        }
+    ]
+        

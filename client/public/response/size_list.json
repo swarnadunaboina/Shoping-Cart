@@ -1,0 +1,14 @@
+{
+        "kids_Size":{
+            "list":[{"size":"2-3 Years"},{"size":"3-4 Years"},{"size":"4-5 Years"},{"size":"5-6 Years"},{"size":"6-7 Years"},{"size":"7-8 Years"},{"size":"8-9 Years"},{"size":"9-10 Years"}]
+        },
+        "top_Wear":{
+            "list":[{"size":"XS"},{"size":"S"},{"size":"M"},{"size":"L"},{"size":"XL"},{"size":"XXL"},{"size":"XXXL"}]
+        },
+        "bottom_Wear":{
+            "list":[{"size":26},{"size":28},{"size":30},{"size":32},{"size":34},{"size":36}]
+        },
+        "foot_Size":{
+            "list":[{"size":3},{"size":4},{"size":5},{"size":6},{"size":7},{"size":8}]
+        }
+}

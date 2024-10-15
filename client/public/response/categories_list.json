@@ -1,0 +1,215 @@
+{
+    "electronics": {
+        "desc": "Electronics",
+        "list":[{
+            "id": 1,
+            "name": "Fridge",
+            "category" : "Electronics"
+        }, {
+            "id": 2,
+            "name": "Noise Buds",
+            "category" : "Electronics"
+        }, {
+            "id": 3,
+            "name": "Projector",
+            "category" : "Electronics"
+        }, {
+            "id": 4,
+            "name": "Smart Watch",
+            "category" : "Electronics"
+        }, {
+            "id": 5,
+            "name": "Monitors",
+            "category" : "Electronics"
+        }]
+    },
+    "toys": {
+        "desc": "Toys",
+        "list": [{
+            "id": 1,
+            "name": "Electric Toys",
+            "category" : "toys"
+        }, {
+            "id": 2,
+            "name": "Teddy Bears",
+            "category" : "toys"
+        }, {
+            "id": 3,
+            "name": "Electric Cars",
+            "category" : "toys"
+        }, {
+            "id": 4,
+            "name": "Normal Cars",
+            "category" : "toys"
+        }, {
+            "id": 5,
+            "name": "Books",
+            "category" : "toys"
+        }]
+    },
+    "fashion": {
+        "desc": "Fashion",
+        "list": [{
+            "id": 1,
+            "name": "T-Shirts",
+            "category" : "Fashion"
+        }, {
+            "id": 2,
+            "name": "Women's Kurtas",
+            "category" : "Fashion"
+        }, {
+            "id": 3,
+            "name": "Sarees",
+            "category" : "Fashion"
+        }, {
+            "id": 4,
+            "name": "Men's Kurtas",
+            "category" : "Fashion"
+        }, {
+            "id": 5,
+            "name": "Kid's Wear",
+            "category" : "Fashion"
+        }]
+    },
+    "two_Weeler": {
+        "desc": "Two Weeler",
+        "list": [{
+            "id": 1,
+            "name": "Duke",
+            "category" : "two Weeler"
+        }, {
+            "id": 2,
+            "name": "Unicon",
+            "category" : "two Weeler"
+        }, {
+            "id": 3,
+            "name": "Pulser",
+            "category" : "two Weeler"
+        }, {
+            "id": 4,
+            "name": "Royal",
+            "category" : "two Weeler"
+        }, {
+            "id": 5,
+            "name": "Scooty",
+            "category" : "two Weeler"
+        }]
+    },
+    "mobiles": {
+        "desc": "Mobiles",
+        "list": [{
+            "id": 1,
+            "name": "Realme",
+            "category" : "Mobiles"
+        }, {
+            "id": 2,
+            "name": "Redmi",
+            "category" : "Mobiles"
+        }, {
+            "id": 3,
+            "name": "Samsung",
+            "category" : "Mobiles"
+        }, {
+            "id": 4,
+            "name": "Vivo",
+            "category" : "Mobiles"
+        }, {
+            "id": 5,
+            "name": "Poco",
+            "category" : "Mobiles"
+        },{
+            "id": 5,
+            "name": "OPPO",
+            "category" : "Mobiles"
+        }]
+    },
+    "home_Furniture": {
+        "desc": "Home & Furniture",
+        "list": [{
+            "id": 1,
+            "name": "Sofa Sets",
+            "category" : "Home & Furniture"
+        }, {
+            "id": 2,
+            "name": "Dianing Table Sets",
+            "category" : "Home & Furniture"
+        }, {
+            "id": 3,
+            "name": "Dinner Sets",
+            "category" : "Home & Furniture"
+        }, {
+            "id": 4,
+            "name": "Bags,Trolls",
+            "category" : "Home & Furniture"
+        }, {
+            "id": 5,
+            "name": "Plates",
+            "category" : "Home & Furniture"
+        }]
+    }
+    ,
+    "grocery": {
+        "desc": "Grocery",
+        "list":[{
+            "id": 1,
+            "name": "Dhal",
+            "category" : "grocery"
+        }, {
+            "id": 2,
+            "name": "Rice",
+            "category" : "grocery"
+        }, {
+            "id": 3,
+            "name": "Tumeric",
+            "category" : "grocery"
+        }, {
+            "id": 4,
+            "name": "Chilly Powder",
+            "category" : "grocery"
+        }, {
+            "id": 5,
+            "name": "Masala Powders",
+            "category" : "grocery"
+        }]
+    },
+    "travel": {
+        "desc": "Travel",
+        "list":[{
+            "id": 1,
+            "name": "Fligth",
+            "category" : "travel"
+        }, {
+            "id": 2,
+            "name": "Car",
+            "category" : "travel"
+        }, {
+            "id": 3,
+            "name": "Bike",
+            "category" : "travel"
+        }]
+    },
+    "appliences": {
+        "desc": "Appliences",
+        "list":[{
+            "id": 1,
+            "name": "Tv",
+            "category" : "appliences"
+        }, {
+            "id": 2,
+            "name": "Washing Machines",
+            "category" : "appliences"
+        }, {
+            "id": 3,
+            "name": "Refrigeraters",
+            "category" : "appliences"
+        }, {
+            "id": 4,
+            "name": "Air Conditioners",
+            "category" : "appliences"
+        }, {
+            "id": 5,
+            "name": "Gryders",
+            "category" : "appliences"
+        }]
+    }
+  }

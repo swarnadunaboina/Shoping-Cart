@@ -1,0 +1,92 @@
+{
+  "electronics": {
+      "type": "electronics",
+      "desc": "Best Of Electronics",
+      "list":[{
+          "id": 1,
+          "name": "Smart Phones",
+          "image": "https://rukminim2.flixcart.com/image/180/180/xif0q/mobile/j/b/n/-original-imahyuhfzvybhaat.jpeg",
+          "startPrice": "17949"
+      }, {
+          "id": 2,
+          "name": "Noise Buds",
+          "image": "https://rukminim2.flixcart.com/image/160/160/xif0q/headphone/d/q/r/-original-imagp6skt77zsdjt.jpeg",
+          "startPrice": "10190"
+      }, {
+          "id": 3,
+          "name": "Projector",
+          "image": "https://rukminim1.flixcart.com/image/250/250/xif0q/projector/h/u/s/-original-imafwnfzxqp3yymc.jpeg",
+          "startPrice": "6990"
+      }, {
+          "id": 4,
+          "name": "Smart Watch",
+          "image": "https://rukminim2.flixcart.com/image/170/170/xif0q/smartwatch/x/f/i/-original-imagtepxzhuhybhn.jpeg",
+          "startPrice": "From 2190"
+      }, {
+          "id": 5,
+          "name": "Monitors",
+          "image": "https://rukminim1.flixcart.com/image/200/200/kura1e80/monitor/l/t/l/gw2280-full-hd-22-gw2280-benq-original-imag7t9tqskqfeen.jpeg",
+          "startPrice": "8999"
+      }]
+  },
+  "toys": {
+      "type": "toys",
+      "desc": "Beauty, Food, Toys & more",
+      "list": [{
+          "id": 1,
+          "name": "Toys",
+          "image": "https://rukminim2.flixcart.com/image/170/170/xif0q/stuffed-toy/l/x/3/combo-of-10-soft-and-stuffed-toys-for-birthday-gifts-baby-toys-original-imahfbcdhcfadxvq.jpeg",
+          "startPrice": "80% Offer"
+      }, {
+          "id": 2,
+          "name": "Printers",
+          "image": "https://rukminim1.flixcart.com/image/200/200/kmp7ngw0/monitor/j/z/h/s2721hn-27-py0df-dell-original-imagfjphuywuh2a7.jpeg",
+          "startPrice": "10190"
+      }, {
+          "id": 3,
+          "name": "Projector",
+          "image": "https://rukminim1.flixcart.com/image/200/200/xif0q/projector/h/u/s/-original-imafwnfzxqp3yymc.jpeg",
+          "startPrice": "6990"
+      }, {
+          "id": 4,
+          "name": "Monitors",
+          "image": "https://rukminim1.flixcart.com/image/200/200/ke4kjgw0/printer/f/x/7/brother-dcp-b7500d-original-imafuvbyfgt5p9fr.jpeg",
+          "startPrice": "10190"
+      }, {
+          "id": 5,
+          "name": "Monitors",
+          "image": "https://rukminim1.flixcart.com/image/200/200/kura1e80/monitor/l/t/l/gw2280-full-hd-22-gw2280-benq-original-imag7t9tqskqfeen.jpeg",
+          "startPrice": "8999"
+      }]
+  },
+  "styles": {
+      "type": "styles",
+      "desc": "Fasion and Top Deals",
+      "list": [{
+          "id": 1,
+          "name": "T-Shirts",
+          "image": "https://rukminim2.flixcart.com/image/200/180/xif0q/t-shirt/9/1/o/m-db1024-42-3bros-original-imagz8zkvwjtayrs.jpeg",
+          "startPrice": "Under 500"
+      }, {
+          "id": 2,
+          "name": "Women Kurth's",
+          "image": "https://rukminim2.flixcart.com/image/200/180/xif0q/kurta/l/q/j/xxl-peach-kurti-jaitraapparels-original-imahfwdkxbyh9ygq.jpeg",
+          "startPrice": "70% Offer"
+      }, {
+          "id": 3,
+          "name": "Sarees",
+          "image": "https://rukminim2.flixcart.com/image/150/180/kt64fbk0/sari/o/b/p/free-5d-1038-fabwomen-unstitched-original-imag6km5mphehvsk.jpeg",
+          "startPrice": "Under 499"
+      }, {
+          "id": 4,
+          "name": "Bags,Trolls",
+          "image": "https://rukminim2.flixcart.com/image/200/180/xif0q/suitcase/1/t/r/-original-imahy9gy4wggjgh6.jpeg",
+          "startPrice": "65% Offer"
+      }, {
+          "id": 5,
+          "name": "Kid's Ware",
+          "image": "https://rukminim1.flixcart.com/image/200/200/kura1e80/monitor/l/t/l/gw2280-full-hd-22-gw2280-benq-original-imag7t9tqskqfeen.jpeg",
+          "startPrice": "Under 199"
+      }]
+  }
+}

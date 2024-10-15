@@ -1,0 +1,111 @@
+*{
+  box-sizing:border-box;
+  margin: 0;
+  padding: 0;
+  outline:invert;
+}
+/* .container .details{
+  display: flex;
+} */
+.in {
+height: 40px;
+font-size: 20px;
+color: #060706;
+font-weight: 500;
+font-family: serif;
+margin-top: 20px;
+padding-bottom: 20px;
+margin-bottom: 20px;
+margin-right: 10px;
+position: relative;
+margin-left: 10px;
+
+}
+.in input:not(.terms){
+display: block;
+border-radius: 4px;
+border:2px solid #f0f0f0;
+font-size: 14px;
+padding: 10px;
+width:100% ;
+}
+.productBar{
+  display: flex;
+  justify-content:space-around;
+  align-items: center;
+  color: #060706;
+ 
+}
+.navBar{
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 16px;
+  margin-bottom: 16px;
+}
+.navBar-logo{
+  color:white;
+  font-size: 20px;
+}
+.navBar-list {
+  display: flex;
+  list-style-type: none;
+  gap: 60px;
+  margin: 0;
+  align-items: center;
+  margin-left: 120px;
+}
+.navBar-list li a{
+  text-decoration: none;
+  color: white;
+} 
+.h{
+  font-size: large;
+  text-align: center;
+
+}
+.active{
+  color:greenyellow;
+}
+.primary{
+  color: blue;
+}
+ul{
+  display: flex;
+  list-style-type: none;
+}
+/* SingleProduct.css */
+.card_Details{
+  margin-left: 100px;
+}
+.card_Section{
+  display: flex;
+}
+.price_Details{
+  margin-left: 200px;
+  text-align: center;
+  margin-top: 10px;
+}
+.card_Items{
+  margin-right: 1100px;
+}
+.sizeButton{
+ display:inline-table;
+ margin-right: 10px;
+}
+.sizeButton{
+  text-align: center;
+  color: #060706;
+  margin-top: 20px;
+}
+.item-display-list{
+  display: grid;
+  grid-template-columns: repeat(auto-fill,minmax(280px,1fr));
+  margin-top: 15px;
+  gap: 10px;
+  row-gap: 10px;
+}
+/*product Qtr*/
+.qtr_style{
+  display: flex;
+}
+
