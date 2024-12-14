@@ -11,13 +11,14 @@ export default (state = initialState, action)=> {
         case 'remove':
             return { ...state, cartCount: state.cartCount - 1 };
         case 'cartItem':
-            const cartItemsList = state.cartItem
+            var cartItemsList = state.cartItem
             cartItemsList.push(action.payload)
             console.log("action.payload",action.payload)
             const cartTotalPrice =state.cartPrice + parseFloat(action.payload.price.replaceAll(',', ''));
             return {...state, cartItem:cartItemsList, cartPrice : cartTotalPrice};
         // case 'addQty' :
-        //     cartPrice =state.cartPrice + parseFloat(action.payload.price.replaceAll(',', ''));
+        //     var cartItemsList = state.cartItem.price
+        //     cartItemsList.push(action.payload.price + parseFloat(action.payload.price.replaceAll(',', '')))
         //     return {...state, cartQty: state.cartQty + 1};
         // case 'minusQty' :
         //     return {...state, cartQty: state.cartQty - 1};

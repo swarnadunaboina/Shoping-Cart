@@ -21,6 +21,10 @@ const usersSchema = new mongoose.Schema({
     phoneNumber:{
         type:Number,
         required:true
+    },
+    productData:{
+        productName:{type:String,required:true},productPrice:{type:Number,required:true},productSize:{type:String,required:true},img:{data:Buffer,contentType:String}
+    
     }
 })
-module.exports = mongoose.model("students",usersSchema,)
+module.exports = mongoose.model("students",usersSchema)

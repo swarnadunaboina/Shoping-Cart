@@ -8,7 +8,7 @@ import { addItemSize } from "../../redux/Actions/cart_action";
 const Size_Component = ({ size }) => {
   const dispatch = useDispatch()
   const select = (item) => {
-         const size = item.target.value
+         const size = item.size
          dispatch(addItemSize(size))
         console.log("size",size)
   }

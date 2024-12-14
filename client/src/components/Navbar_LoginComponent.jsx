@@ -16,8 +16,6 @@ import NotificationsIcon from '@mui/icons-material/Notifications';
 import MoreIcon from '@mui/icons-material/MoreVert';
 import LocalGroceryStoreIcon from '@mui/icons-material/LocalGroceryStore';
 import { useNavigate } from "react-router-dom";
-import { Link } from 'react-router-dom';
-//import { useSelector } from 'react-redux'
 const Search = styled('div')(({ theme }) => ({
   position: 'relative',
   borderRadius: theme.shape.borderRadius,
@@ -190,7 +188,7 @@ export default function Navbar_LoginComponent() {
             component="div"
             sx={{ display: { xs: 'none', sm: 'block' ,color:'white'} }}
           >
-            FlipKart
+            Shopping Cart
           </Typography>
           <Search>
             <SearchIconWrapper>

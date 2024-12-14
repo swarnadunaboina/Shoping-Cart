@@ -15,6 +15,7 @@ import Products_Login_page from './pages/Products_Login_Page';
 import Products_Logout_page from './pages/Products_Logout_Page';
 import Size_Container from './components/Sizes_Component/size_container';
 import SingleProductLogout_Page from './pages/SingleProductsLogout';
+//import Search from './Search';
 import {
   createBrowserRouter,
   RouterProvider,
@@ -65,6 +66,7 @@ const router =createBrowserRouter([
     path: "/cart",
     element: <AddToCart/> ,
   },
+  
 ]);  
 
 ReactDOM.createRoot(document.getElementById('root')).render(

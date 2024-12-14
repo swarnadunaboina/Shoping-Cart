@@ -182,7 +182,7 @@ export default function Navbar_LogoutComponent() {
             component="div"
             sx={{ display: { xs: 'none', sm: 'block' ,color:'white'} }}
           >
-            FlipKart
+            Shopping Cart
           </Typography>
           <Search>
             <SearchIconWrapper>

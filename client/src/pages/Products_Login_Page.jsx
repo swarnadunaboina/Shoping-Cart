@@ -36,7 +36,7 @@ const Products_Login_page = ({children}) => {
             <div>
                 <Box sx={{ overflowX: 'hidden', overflowY: 'hidden' }}>
                     <Stack>
-                        <Item><CategoriesBar_Component /></Item>
+                        {/* <Item><CategoriesBar_Component /></Item> */}
                         <Item>{children}</Item>
                     </Stack>
                 </Box>

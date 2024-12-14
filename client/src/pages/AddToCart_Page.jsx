@@ -36,10 +36,8 @@ const AddToCart=()=>{
                                 </CardBody>
                             </div>
                         </div>
-                        <div><AddPrice_Component/></div>
-                    </Card>
-                    
-                    
+                       <div><AddPrice_Component/></div>
+                    </Card>  
                 )
                
             })

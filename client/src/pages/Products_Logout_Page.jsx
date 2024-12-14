@@ -37,7 +37,6 @@ const Products_Logout_page = ({children}) => {
             <div>
                 <Box sx={{ overflowX: 'hidden', overflowY: 'hidden' }}>
                     <Stack>
-                        <Item><CategoriesBar_Component /></Item>
                         <Item>{children}</Item>
                     </Stack>
                 </Box>

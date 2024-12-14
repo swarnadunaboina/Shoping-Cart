@@ -39,7 +39,7 @@ const SingleProductLogout_Page = () => {
 
                         </CardSubtitle>
                         <CardText>
-                            <Size_Container item={item} />
+                            {/* <Size_Container item={item} /> */}
                         </CardText>
                     </CardBody>
                 </div>
