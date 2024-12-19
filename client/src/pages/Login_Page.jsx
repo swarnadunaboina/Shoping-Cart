@@ -37,7 +37,7 @@ const Login = () => {
             .then((result) => {
                 console.log(result)
                 if (result.data === "Success") {
-                    navigate('/flipKartdashboard')
+                    navigate('/shoppingCartDashboard')
                     dispatch(emailUpdate(email));
                 }
                 else {

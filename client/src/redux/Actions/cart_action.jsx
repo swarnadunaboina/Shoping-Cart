@@ -19,3 +19,11 @@ export function addQty(cartQty){
 export function minusQty(cartQty){
     return ({type:"minusQty",payload:cartQty})
 }
+//favorite page methods
+export function addFavorites(Item){
+    console.log("action favorite",Item)
+    return(
+        {type:"favoriteItem",payload:Item}
+        
+    )
+}

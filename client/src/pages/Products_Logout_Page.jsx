@@ -17,7 +17,7 @@ const Item = styled(Paper)(({ theme }) => ({
 const Products_Logout_page = ({children}) => {
     if(!children){
         return <>
-        <div className="navbars">
+        {/* <div className="navbars"> */}
             <Navbar_LogoutComponent />
             <div>
                 <Box sx={{ overflowX: 'hidden', overflowY: 'hidden' }}>
@@ -27,12 +27,12 @@ const Products_Logout_page = ({children}) => {
                     </Stack>
                 </Box>
             </div>
-        </div>
+        {/* </div> */}
     </>
     }
     else{
     return <>
-        <div className="navbars">
+        {/* <div className="navbars"> */}
             <Navbar_LogoutComponent />
             <div>
                 <Box sx={{ overflowX: 'hidden', overflowY: 'hidden' }}>
@@ -41,7 +41,7 @@ const Products_Logout_page = ({children}) => {
                     </Stack>
                 </Box>
             </div>
-        </div>
+        {/* </div> */}
     </>
     }
 }

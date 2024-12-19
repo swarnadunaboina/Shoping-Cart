@@ -6,15 +6,13 @@ import { useDispatch } from "react-redux";
 import { addItemSize } from "../../redux/Actions/cart_action";
 
 const Size_Component = ({ size }) => {
-  const dispatch = useDispatch()
-  const select = (item) => {
-         const size = item.size
-         dispatch(addItemSize(size))
-        console.log("size",size)
-  }
+  // const dispatch = useDispatch()
+  // const select = (item) => {
+  //        const size = item.size
+  //        dispatch(addItemSize(size))
+  //       console.log("size",size)
+  // }
   return (
-    <div>
-      {
         size && size.length && size.map((item, index) => {
           return (
             <div className="sizeButton" key={index}>
@@ -35,16 +33,14 @@ const Size_Component = ({ size }) => {
                         </Box> */}
               <Button
                 outline
-                onClick={select()}
+                // onClick={select()}
               >
                 {item}
               </Button>
             </div>
           )
         })
-      }
-
-    </div>
+      
   )
 }
 export default Size_Component;

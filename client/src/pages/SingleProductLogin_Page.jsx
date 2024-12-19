@@ -39,9 +39,9 @@ const SingleProductLogin_Page = () => {
                             {item.option}
 
                         </CardSubtitle>
-                        <CardText>
-                            {/* <Size_Container item={item} /> */}
-                        </CardText>
+                        {/* <CardText>
+                            <Size_Container item={item} />
+                        </CardText> */}
                     </CardBody>
                 </div>
                 <div className="price_Details">

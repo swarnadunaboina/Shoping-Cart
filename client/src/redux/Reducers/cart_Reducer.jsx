@@ -2,7 +2,8 @@ const initialState = {
     cartCount: 0,
     cartItem:[],
     cartPrice:0,
-    itemSize: " "
+    itemSize: " ",
+    favoriteItem:[]
 }
 export default (state = initialState, action)=> {
     switch (action.type) {
@@ -15,6 +16,11 @@ export default (state = initialState, action)=> {
             cartItemsList.push(action.payload)
             console.log("action.payload",action.payload)
             const cartTotalPrice =state.cartPrice + parseFloat(action.payload.price.replaceAll(',', ''));
+            // if('addPrice'){
+            //         // for(let i=0;i<state)
+            //        console.log(cartItemsList[price])
+            //     // return {...state, cartItem:cartItemsList, cartPrice : cartTotalPrice}
+            //}
             return {...state, cartItem:cartItemsList, cartPrice : cartTotalPrice};
         // case 'addQty' :
         //     var cartItemsList = state.cartItem.price
@@ -25,7 +31,13 @@ export default (state = initialState, action)=> {
         case 'itemSize':
             console.log("reducersize",action.payload)
             return {...state, itemSize:action.payload};
+        case 'favoriteItem':
+            var favoriteItemList = state.favoriteItem
+            favoriteItemList.push(action.payload)
+            console.log("action.payload favorite",favoriteItemList)
+            return {...state,favoriteItem:favoriteItemList }
         default:
             return state;
     }
+    
 }

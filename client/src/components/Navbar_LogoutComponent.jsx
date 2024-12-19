@@ -15,6 +15,7 @@ import AccountCircle from '@mui/icons-material/AccountCircle';
 import NotificationsIcon from '@mui/icons-material/Notifications';
 import MoreIcon from '@mui/icons-material/MoreVert';
 import LocalGroceryStoreIcon from '@mui/icons-material/LocalGroceryStore';
+import FavoriteIcon from '@mui/icons-material/Favorite';
 import { useSelector } from 'react-redux'
 // import { Link } from 'react-router-dom';
 import { useNavigate } from "react-router-dom";
@@ -79,15 +80,19 @@ export default function Navbar_LogoutComponent() {
     handleMobileMenuClose();
     
   };
-  const logout =()=>{
-    navigate("/flipkart")
-  }
   const handleMobileMenuOpen = (event) => {
     setMobileMoreAnchorEl(event.currentTarget);
   };
   const navigate = useNavigate()
-  const link=()=>{
+  //page navigate methods
+  const logout =()=>{
+    navigate("/shoppingCart")
+  }
+  const cartlink=()=>{
       navigate("/cart")
+  }
+  const favoritelink=()=>{
+      navigate("/favorites")
   }
   const menuId = 'primary-search-account-menu';
   const renderMenu = (
@@ -128,13 +133,19 @@ export default function Navbar_LogoutComponent() {
       open={isMobileMenuOpen}
       onClose={handleMobileMenuClose}
     >
-      <MenuItem onClick={()=>{link()}}>
+      <MenuItem onClick={()=>{favoritelink()}}>
+      <IconButton size="large" aria-label="add to favorites" color="inherit" >
+          <Badge badgeContent={0} color="error">
+          <FavoriteIcon/>
+          </Badge>
+        </IconButton>
+      </MenuItem>
+      <MenuItem onClick={()=>{cartlink()}}>
         <IconButton size="large" aria-label="show 4 new mails" color="inherit">
           <Badge badgeContent={data.cart.cartCount} color="error">
             <LocalGroceryStoreIcon/>
           </Badge>
         </IconButton>
-        <p>Add To Cart</p>
       </MenuItem>
       <MenuItem>
         <IconButton
@@ -146,7 +157,6 @@ export default function Navbar_LogoutComponent() {
             <NotificationsIcon />
           </Badge>
         </IconButton>
-        <p>Notifications</p>
       </MenuItem>
       <MenuItem onClick={handleProfileMenuOpen}>
         <IconButton
@@ -158,7 +168,6 @@ export default function Navbar_LogoutComponent() {
         >
           <AccountCircle />
         </IconButton>
-        <p>Profile :{data.login.email}</p>
       </MenuItem>
     </Menu>
   );
@@ -195,7 +204,12 @@ export default function Navbar_LogoutComponent() {
           </Search>
           <Box sx={{ flexGrow: 1 }} />
           <Box sx={{ display: { xs: 'none', md: 'flex' } }}>
-            <IconButton size="large" aria-label="show 4 new mails" color="inherit" onClick={()=>{link()}}>
+          <IconButton size="large" aria-label="add to favorites" color="inherit"  onClick={()=>{favoritelink()}}>
+              <Badge badgeContent={0} color="error">
+              <FavoriteIcon/>
+              </Badge>
+            </IconButton>
+            <IconButton size="large" aria-label="show 4 new mails" color="inherit" onClick={()=>{cartlink()}}>
               <Badge badgeContent={data.cart.cartCount} color="error">
                 <LocalGroceryStoreIcon/>
               </Badge>

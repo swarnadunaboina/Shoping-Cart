@@ -2,12 +2,9 @@ import React from "react";
 import { useSelector } from 'react-redux'
 import { Card, CardBody, CardTitle, CardSubtitle, CardText } from "reactstrap";
 import Product_Qty from "../components/Product_Qty";
-import AddPrice_Component from "../components/addPrice_Component";
-//import { useState } from "react";
-const AddToCart=()=>{
-    let data = useSelector((state)=> state.cart.cartItem);
-    // let itemSize = useSelector((state)=> state.cart.itemSize);
-    //const [size,setSize] = useState("")
+const FavoriteProducts=()=>{
+    let data = useSelector((state)=> state.cart.favoriteItem);
+    console.log("favoritepage",data)
         return (
             
             data && data.length && data.map((item, index) => {
@@ -41,8 +38,6 @@ const AddToCart=()=>{
                         </div>
                        
                     </Card> 
-                   
-                    <div><AddPrice_Component/></div>
                     </div>
                 )
                
@@ -53,4 +48,4 @@ const AddToCart=()=>{
         
     
 }
-export default AddToCart;
+export default FavoriteProducts;

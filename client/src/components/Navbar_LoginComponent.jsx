@@ -15,6 +15,7 @@ import AccountCircle from '@mui/icons-material/AccountCircle';
 import NotificationsIcon from '@mui/icons-material/Notifications';
 import MoreIcon from '@mui/icons-material/MoreVert';
 import LocalGroceryStoreIcon from '@mui/icons-material/LocalGroceryStore';
+import FavoriteIcon from '@mui/icons-material/Favorite';
 import { useNavigate } from "react-router-dom";
 const Search = styled('div')(({ theme }) => ({
   position: 'relative',
@@ -135,12 +136,18 @@ export default function Navbar_LoginComponent() {
       onClose={handleMobileMenuClose}
     >
       <MenuItem >
+      <IconButton size="large" aria-label="add to favorites" color="inherit"  onClick={()=>{loginLink()}}>
+          <Badge badgeContent={0} color="error">
+          <FavoriteIcon/>
+          </Badge>
+        </IconButton>
+      </MenuItem>
+      <MenuItem >
         <IconButton size="large" aria-label="show 4 new mails" color="inherit" onClick={()=>{loginLink()}}>
           <Badge badgeContent={0} color="error">
             <LocalGroceryStoreIcon/>
           </Badge>
         </IconButton>
-        <p>Add To Cart</p>
       </MenuItem>
       <MenuItem>
         <IconButton
@@ -152,7 +159,6 @@ export default function Navbar_LoginComponent() {
             <NotificationsIcon />
           </Badge>
         </IconButton>
-        <p>Notifications</p>
       </MenuItem>
       <MenuItem onClick={handleProfileMenuOpen}>
         <IconButton
@@ -164,7 +170,6 @@ export default function Navbar_LoginComponent() {
         >
           <AccountCircle />
         </IconButton>
-        <p>Profile</p>
       </MenuItem>
     </Menu>
   );
@@ -201,6 +206,11 @@ export default function Navbar_LoginComponent() {
           </Search>
           <Box sx={{ flexGrow: 1 }} />
           <Box sx={{ display: { xs: 'none', md: 'flex' } }}>
+          <IconButton size="large" aria-label="add to favorites" color="inherit"  onClick={()=>{loginLink()}}>
+              <Badge badgeContent={0} color="error">
+              <FavoriteIcon/>
+              </Badge>
+            </IconButton>
             <IconButton size="large" aria-label="show 4 new mails" color="inherit" onClick={()=>{loginLink()}} >
               <Badge badgeContent={0} color="error">
                 <LocalGroceryStoreIcon/>

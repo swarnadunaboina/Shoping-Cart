@@ -2,6 +2,7 @@ const express = require('express')
 const cors = require('cors')
 var bodyParser = require('body-parser');
 var Usermodel = require('./models/Usermodel')
+var Cartmodel = require('./models/cartDetailsmodel')
 //var usersRouter = require('./routes/usersRoute')
 const app = express()
 const port = 3001
@@ -49,12 +50,28 @@ app.get('/categories',(req,res)=>{
   }
   res.send(categories)
 })
-
+app.post('/singleProductLogout',async(req,res)=>{
+  try{
+    const{email,price,name,image} = req.body
+    console.log("mongo",req.body)
+  const cartDetail = new Cartmodel({
+    price,
+    name,
+    image,
+    email
+  })
+  await cartDetail.save()
+      res.status(201).json(cartDetail)
+  }catch(error){
+    console.log("there is an error", error)
+      res.status(500).json({message: 'Server error'})
+  }
+})
 app.post('/signup',async(req, res)=>{
     try{
       const {firstName,lastName,email,password,phoneNumber}= req.body
       console.log("------------",req.body);
-      const student = new Usermodel({
+      const userDetail = new Usermodel({
           firstName,
           lastName,
           email,
@@ -66,9 +83,9 @@ app.post('/signup',async(req, res)=>{
         console.log("Already exist") 
       }
       else{
-        console.log(student)
-      await student.save()
-      res.status(201).json(student)
+        console.log(userDetail)
+      await userDetail.save()
+      res.status(201).json(userDetail)
       }
   }catch (error){
       console.log("there is an error", error)
